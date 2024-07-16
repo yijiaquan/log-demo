@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: log-demo-app
+  profiles:
+    active: dev
